@@ -2,6 +2,8 @@
 
 A blog powered by Sanity.io, an open source real-time content editing environment connected to the Sanity backend.
 
+Currently, under the development 🚧
+
 ## More about Sanity.io
 
 - [Read “getting started” in the docs](https://www.sanity.io/docs/introduction/getting-started?utm_source=readme)
