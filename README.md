@@ -10,4 +10,8 @@ Currently, under the development 🚧
 - [Join the community Slack](https://slack.sanity.io/?utm_source=readme)
 - [Extend and build plugins](https://www.sanity.io/docs/content-studio/extending?utm_source=readme)
 
+## Reference
+
+- [Sanity.io Crash Course | Headless CMS by Kapehe and Traversy Media](https://youtu.be/32RP-sG1njE)
+
 [![Visits Badge](https://badges.pufler.dev/visits/kevinadhiguna/sanity-blog)](https://github.com/kevinadhiguna)
