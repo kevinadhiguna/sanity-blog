@@ -20,4 +20,5 @@ Currently, under the development 🚧
 
 <br />
 
-[![Visits Badge](https://badges.pufler.dev/visits/kevinadhiguna/sanity-blog)](https://github.com/kevinadhiguna)
+
+![Hello !](https://api.visitorbadge.io/api/VisitorHit?user=kevinadhiguna&repo=sanity-blog&label=thanks%20for%20dropping%20in%20!&labelColor=%23000000&countColor=%23FFFFFF)
